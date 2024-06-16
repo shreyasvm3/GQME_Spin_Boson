@@ -1,0 +1,14 @@
+Executing: cp -- /home/chemfs01/sm2699/sc-ivr/Spin-Boson/Geva-Model2/GQME-LSC/Memory-kernel/trial/t-10/dyn.x /tmp/sm2699/1919122/.
+Executing: cp -- /home/chemfs01/sm2699/sc-ivr/Spin-Boson/Geva-Model2/GQME-LSC/Memory-kernel/trial/t-10/input /tmp/sm2699/1919122/.
+Executing: cp -- /home/chemfs01/sm2699/sc-ivr/Spin-Boson/Geva-Model2/GQME-LSC/Memory-kernel/trial/t-10/fort.1005 /tmp/sm2699/1919122/.
+Executing: cp -- /home/chemfs01/sm2699/sc-ivr/Spin-Boson/Geva-Model2/GQME-LSC/Memory-kernel/trial/t-10/fort.2005 /tmp/sm2699/1919122/.
+Executing: cp -- /home/chemfs01/sm2699/sc-ivr/Spin-Boson/Geva-Model2/GQME-LSC/Memory-kernel/trial/t-10/fort.3005 /tmp/sm2699/1919122/.
+Executing: cp -- /home/chemfs01/sm2699/sc-ivr/Spin-Boson/Geva-Model2/GQME-LSC/Memory-kernel/trial/t-10/fort.4005 /tmp/sm2699/1919122/.
+Lmod has detected the following error: Swap failed: "gnu8" is not loaded.
+
+
+
+
+real	7m2.278s
+user	0m48.624s
+sys	0m0.106s

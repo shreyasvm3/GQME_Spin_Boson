@@ -1,0 +1,14 @@
+Number of nuclear dofs, number of electronic states
+50	2
+Energy diff. parameter for elec states (epsilon) and coupling(Gamma)
+1.0	1.0
+Temperature (beta)
+5.0
+Parameters for the ohmic bath: cuttoff freq. (omegac) and friction (xi)
+2.0	0.1
+Time grid: time step, number of steps; Energy tolerance
+0.005	4000   1e-3
+Number of trajectory pairs
+2D5
+Number of checkpoints
+5

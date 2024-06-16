@@ -1,0 +1,14 @@
+Executing: cp -- /home/chemfs01/sm2699/sc-ivr/Spin-Boson/Geva-Model2/GQME-LSC/Memory-kernel/Ntraj-10-6/t-10/dyn.x /tmp/sm2699/1928941/.
+Executing: cp -- /home/chemfs01/sm2699/sc-ivr/Spin-Boson/Geva-Model2/GQME-LSC/Memory-kernel/Ntraj-10-6/t-10/input /tmp/sm2699/1928941/.
+Executing: cp -- /home/chemfs01/sm2699/sc-ivr/Spin-Boson/Geva-Model2/GQME-LSC/Memory-kernel/Ntraj-10-6/t-10/fort.1005 /tmp/sm2699/1928941/.
+Executing: cp -- /home/chemfs01/sm2699/sc-ivr/Spin-Boson/Geva-Model2/GQME-LSC/Memory-kernel/Ntraj-10-6/t-10/fort.2005 /tmp/sm2699/1928941/.
+Executing: cp -- /home/chemfs01/sm2699/sc-ivr/Spin-Boson/Geva-Model2/GQME-LSC/Memory-kernel/Ntraj-10-6/t-10/fort.3005 /tmp/sm2699/1928941/.
+Executing: cp -- /home/chemfs01/sm2699/sc-ivr/Spin-Boson/Geva-Model2/GQME-LSC/Memory-kernel/Ntraj-10-6/t-10/fort.4005 /tmp/sm2699/1928941/.
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) openmpi3/3.1.4
+
+
+real	7m36.058s
+user	0m48.937s
+sys	0m0.205s

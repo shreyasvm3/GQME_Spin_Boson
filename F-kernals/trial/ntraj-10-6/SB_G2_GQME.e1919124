@@ -1,0 +1,10 @@
+Executing: cp -- /home/chemfs01/sm2699/sc-ivr/Spin-Boson/Geva-Model2/GQME-LSC/F-kernals/trial/ntraj-10-6/dyn.x /tmp/sm2699/1919124/.
+Executing: cp -- /home/chemfs01/sm2699/sc-ivr/Spin-Boson/Geva-Model2/GQME-LSC/F-kernals/trial/ntraj-10-6/input /tmp/sm2699/1919124/.
+Lmod has detected the following error: Swap failed: "gnu8" is not loaded.
+
+
+
+
+real	115m23.417s
+user	1383m0.825s
+sys	0m2.265s

@@ -1,0 +1,12 @@
+Executing: cp -- /home/chemfs01/sm2699/sc-ivr/Spin-Boson/Geva-Model2/GQME-LSC/RDM/trial/dyn.x /tmp/sm2699/1928953/.
+Executing: cp -- /home/chemfs01/sm2699/sc-ivr/Spin-Boson/Geva-Model2/GQME-LSC/RDM/trial/input /tmp/sm2699/1928953/.
+Executing: cp -- /home/chemfs01/sm2699/sc-ivr/Spin-Boson/Geva-Model2/GQME-LSC/RDM/trial/KImag.out /tmp/sm2699/1928953/.
+Executing: cp -- /home/chemfs01/sm2699/sc-ivr/Spin-Boson/Geva-Model2/GQME-LSC/RDM/trial/KReal.out /tmp/sm2699/1928953/.
+Lmod has detected the following error: Swap failed: "gnu8" is not loaded.
+
+
+
+
+real	0m2.094s
+user	0m0.216s
+sys	0m0.092s
